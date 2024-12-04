@@ -247,6 +247,7 @@
 @media (max-width: 720px) {
   .oppia-splash-section-five-left-testimonial {
     height: 410px; 
+ 
   }
 }
 
@@ -565,7 +566,6 @@
 
   .splash-page .splash-arrows-container {
     position: relative;  
-
   }
   
   .splash-page .oppia-splash-section-four-left .oppia-splash-button,
